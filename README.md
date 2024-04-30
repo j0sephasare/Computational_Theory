@@ -6,13 +6,24 @@
 
 The goal of this project is to create a Python-based solution for the well-known "Countdown" television show segment, the "Countdown numbers game." In order to reach a randomly generated target number, players must use the mathematical operations of addition, subtraction, multiplication, and division within a time limit. They start with six random numbers. With an emphasis on brute force and dynamic programming techniques, this solver seeks to automate the solution process through a variety of computational tactics.
 
+### Prerequisites
+
+The content in this repository is in a jupyter notebook file, to run the jupyter notebook you will need:
+
+- ***Python/Anacoda***
+
+- ***Jupyter Notebook:*** 
+
+- ***Visual Studio Code***
+
 ### Installation
 
 To set up this project locally, follow these steps:
 
 - 1. Clone the repository
-
-    git clone
+    ```
+    git clone https://github.com/j0sephasare/Computational_Theory.git
+    ```
 
 - 2. cd into the repository
 
